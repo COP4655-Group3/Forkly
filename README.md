@@ -141,6 +141,17 @@ _(Add digital versions if available)_
   </a>
 </div>
 
+## Milestone 2 GIF
+
+<div>
+    <a href="https://www.loom.com/share/883c628dfb094379a0649c3076e13668">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 13 April 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/883c628dfb094379a0649c3076e13668">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/883c628dfb094379a0649c3076e13668-48f538a5cbca282d-full-play.gif">
+    </a>
+  </div>
+
 ---
 
 ## Schema
