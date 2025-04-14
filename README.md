@@ -127,6 +127,7 @@ Additional MVP functionality:
 ### [BONUS] Digital Wireframes & Mockups
 
 _(Add digital versions if available)_
+![digitalforklyWireframe](https://github.com/user-attachments/assets/44825c04-70fc-438d-ad8e-740e1528e656)
 
 ---
 
