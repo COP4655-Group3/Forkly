@@ -48,20 +48,20 @@ This repository represents the evolved version of our original app [Original Rep
 
 For our app, we identified the following "must-have" features essential to a minimum viable product:
 
-- **Search for Recipes**  
+[x] **Search for Recipes**  
   *As a user, I want to search for recipes based on a keyword (e.g., “chicken”, “pasta”) so that I can find meals I want to cook.*
 
-- **View Recipe Details**  
+[x] **View Recipe Details**  
   *As a user, I want to tap on a recipe and view all the details (image, summary, instructions) so I know how to make it.*
 
-- **Save and Access Favorite Recipes**  
+[x] **Save and Access Favorite Recipes**  
   *As a user, I want to save recipes to a favorites list and view them later so I don’t lose the meals I liked.*
 
 Additional MVP functionality:
-- User can search for a new recipe
-- User can see multiple recipes and select the specific one they want
-- User can view a clean, step-by-step breakdown of the recipe
-- User can favorite recipes and access them across app sessions
+[x] User can search for a new recipe
+[x] User can see multiple recipes and select the specific one they want
+[x] User can view a clean, step-by-step breakdown of the recipe
+[x] User can favorite recipes and access them across app sessions
 
 #### **Optional Nice-to-have Stories**
 
