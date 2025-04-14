@@ -154,6 +154,17 @@ Digital Wireframe version
   </div>
 
 ---
+## Milestone 3 GIF
+
+<div>
+    <a href="https://www.loom.com/share/a92b6ae4a4474579b06c2a52e789ebf6">
+      <p>Videos | Library | Loom - 14 April 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a92b6ae4a4474579b06c2a52e789ebf6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a92b6ae4a4474579b06c2a52e789ebf6-f001699eeaf98cf8-full-play.gif">
+    </a>
+  </div>
+
 
 ## Schema
 
