@@ -43,6 +43,22 @@ struct RecipeDetailView: View {
                     .font(.title)
                     .bold()
                 
+                let favoriteRecipe = Recipe(id: recipe.id, title: recipe.title, image: recipe.image)
+                let isFavorite = favoritesManager.isFavorite(favoriteRecipe)
+
+                Button(action: {
+                    favoritesManager.toggleFavorite(favoriteRecipe)
+                }) {
+                    HStack {
+                        Image(systemName: isFavorite ? "heart.fill" : "heart")
+                            .foregroundColor(.red)
+                        Text(isFavorite ? "Remove from Favorites" : "Add to Favorites")
+                    }
+                    .padding(8)
+                    .background(Color(.systemGray6))
+                    .cornerRadius(10)
+                }               
+                
                 // Summary
                 if !cleanedSummary.isEmpty {
                     VStack(alignment: .leading, spacing: 8) {
