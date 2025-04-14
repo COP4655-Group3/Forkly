@@ -18,7 +18,7 @@ Our team began development in a shared repo using milestone-based planning. Midw
 
 ### 🔁 Project Evolution
 
-This repository represents the evolved version of our original app [Original Repo](https://github.com/COP4655-Group3/RecipeApp). The original repo contains early milestone planning and initial development. After identifying scalability and UI flow limitations, we transitioned to this new repo to refine and expand the app. Milestones here reflect continuation and improvement of the original goals.
+This repository represents the evolved version of our original app [Original Repo](https://github.com/COP4655-Group3/RecipeApp). The original repo contains early milestone planning and initial development. After identifying scalability and UI flow limitations, we transitioned to this new repo to refine and expand the app. Milestones here reflect continuation and improvement of the original goals. Our brainstorming.md files for unit 5 and 6 are included as well for brevity.
 
 #### Milestone Continuity
 
